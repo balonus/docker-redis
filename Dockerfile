@@ -1,4 +1,4 @@
-FROM redis:3.0.7
+FROM redis:3.2.3
 
 MAINTAINER Michal Balinski <michal.balinski@gmail.com>
 
